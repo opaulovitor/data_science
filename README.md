@@ -7,13 +7,13 @@
 # Paulo Vitor Bianchini Silva
 <sub>Aprimorando em *Data Science*</sub>
 
-Iniciei recentemente meus estudos em Data Science, usarei este espaço para compartilhar meus projetos.
+Iniciei recentemente meus estudos em ***Data Science***, usarei este espaço para compartilhar meus projetos.
 
-Atualmente estou como Engenheiro de Desenvolvimento Sr em um grupo multinacional. Possuo 10 anos de experiência em áreas como logística, simulação de eventos, gerenciamento de projetos e desenvolvimento de sistemas.
+Atualmente estou atuando como Engenheiro de Desenvolvimento Sr em um grupo multinacional. Possuo 10 anos de experiência em áreas como logística, simulação de eventos, gerenciamento de projetos e desenvolvimento de sistemas.
 
 Bora lá! Aqui é o começo dessa jornada de *Data Science*.
 
-**Background in:** Python.
+**Background in:** Arena, VBA e Python.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/pvbianchini/)
