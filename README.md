@@ -5,9 +5,13 @@
 </p>
 
 # Paulo Vitor Bianchini Silva
-<sub>Aprendiz de Data Science</sub>
+<sub>Aprimorando em *Data Science*</sub>
 
-Escrever a Bio.
+Iniciei recentemente meus estudos em Data Science, usarei este espaço para compartilhar meus projetos.
+
+Atualmente estou como Engenheiro de Desenvolvimento Sr em um grupo multinacional. Possuo 10 anos de experiência em áreas como logística, simulação de eventos, gerenciamento de projetos e desenvolvimento de sistemas.
+
+Bora lá! Aqui é o começo dessa jornada de *Data Science*.
 
 **Background in:** Python.
 
