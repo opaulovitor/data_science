@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner_ds_new.png" width="1000" height="200">
+  <img src="files/banner_ds_new.png" width="1000" height="200">
 </p>
 
 # Paulo Vitor Bianchini Silva
