@@ -21,6 +21,6 @@ Bora lá! Aqui é o começo dessa jornada de *Data Science*.
 ## Projetos:
 Colocar os proejetos:
 
-* **Análise dos Dados do Airbnb para a cidade de Buenos Aires :** https://bit.ly/3aomCoT
+* **Análise dos Dados do Airbnb para a cidade de Buenos Aires :** https://bit.ly/3D0dbZI
 
 ---
