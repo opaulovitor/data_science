@@ -9,7 +9,7 @@ Me especializando em ***Data Science***, usarei este espaço para compartilhar m
 
 Atualmente estou atuando como Engenheiro de Desenvolvimento Sr em um grupo multinacional. Possuo 10 anos de experiência em áreas como logística, simulação de processos, gerenciamento de projetos e desenvolvimento de sistemas.
 
-Bora lá! Aqui é presente e futuro dessa jornada de *Data Science*.
+Bora lá! Aqui é o presente e o futuro dessa jornada de *Data Science*.
 
 **Background in:**
 
