@@ -15,7 +15,7 @@ Bora lá! Aqui é o começo dessa jornada de *Data Science*.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/pvbianchini/)
-* [Medium](https://www.medium.com)
+* [Medium](https://medium.com/@pv.bianchini)
 
 
 ## Projetos:
