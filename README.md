@@ -11,15 +11,18 @@ Atualmente estou atuando como Engenheiro de Desenvolvimento Sr em um grupo multi
 
 Bora lá! Aqui é presente e futuro dessa jornada de *Data Science*.
 
-**Background in:** Arena, VBA e Python.
+**Background in:**
+
+Arena, VBA e Python.
 
 **Links:**
+
 * [LinkedIn](https://www.linkedin.com/in/pvbianchini/)
 * [Medium](https://medium.com/@pv.bianchini)
 
 
 ## Projetos:
-Colocar os proejetos:
+Confira meus projetos:
 
 * **Análise dos Dados do Airbnb para a cidade de Buenos Aires :** https://bit.ly/3D0dbZI
 
